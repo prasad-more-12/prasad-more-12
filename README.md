@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I use Android Studio with i3 7th gen 4GB RAM**:sweat_smile:
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
