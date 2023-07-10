@@ -14,7 +14,7 @@
 
 
 <h3 align="left">💻 Tech Stack:</h3>
-<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,c,cpp,py,js,html,css,jquery" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,c,cpp,py,js,html,css" />
 <h3 align="left">🛠️ Tools:</h3>
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,eclipse,visualstudio,github,git,idea,postman,bash"/>
 <h3 align="left">💾 Databases:</h3>
