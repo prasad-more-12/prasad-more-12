@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android Development technologies**
 
-- 🌱 I’m currently learning **Android, Web Development related Technologies**
+- 🌱 I’m currently learning **Android, Flutter and Jetpack Compose**
 
 - ⚡ Fun fact **I use Android Studio with i3 7th gen 4GB RAM**:sweat_smile:
 
